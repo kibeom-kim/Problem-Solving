@@ -45,4 +45,12 @@ https://leetcode.com/_KIBEOM/
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/kibeom-kim/Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/kibeom-kim/Problem-Solving/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/kibeom-kim/Problem-Solving/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
