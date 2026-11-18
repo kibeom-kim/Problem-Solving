@@ -50,6 +50,7 @@ https://leetcode.com/_KIBEOM/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kibeom-kim/Problem-Solving/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kibeom-kim/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0704-binary-search](https://github.com/kibeom-kim/Problem-Solving/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -118,4 +119,8 @@ https://leetcode.com/_KIBEOM/
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/kibeom-kim/Problem-Solving/tree/master/0226-invert-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kibeom-kim/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
