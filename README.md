@@ -55,6 +55,7 @@ https://leetcode.com/_KIBEOM/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kibeom-kim/Problem-Solving/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/kibeom-kim/Problem-Solving/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -74,6 +75,7 @@ https://leetcode.com/_KIBEOM/
 | ------- |
 | [0020-valid-parentheses](https://github.com/kibeom-kim/Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/kibeom-kim/Problem-Solving/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/kibeom-kim/Problem-Solving/tree/master/0242-valid-anagram) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -86,4 +88,8 @@ https://leetcode.com/_KIBEOM/
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/kibeom-kim/Problem-Solving/tree/master/0125-valid-palindrome) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/kibeom-kim/Problem-Solving/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
