@@ -50,6 +50,7 @@ https://leetcode.com/_KIBEOM/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kibeom-kim/Problem-Solving/tree/master/0001-two-sum) |
+| [0704-binary-search](https://github.com/kibeom-kim/Problem-Solving/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,4 +77,8 @@ https://leetcode.com/_KIBEOM/
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kibeom-kim/Problem-Solving/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/kibeom-kim/Problem-Solving/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
