@@ -73,6 +73,7 @@ https://leetcode.com/_KIBEOM/
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kibeom-kim/Problem-Solving/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/kibeom-kim/Problem-Solving/tree/master/0125-valid-palindrome) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -81,4 +82,8 @@ https://leetcode.com/_KIBEOM/
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/kibeom-kim/Problem-Solving/tree/master/0704-binary-search) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/kibeom-kim/Problem-Solving/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
