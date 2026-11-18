@@ -36,6 +36,7 @@ https://leetcode.com/_KIBEOM/
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kibeom-kim/Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/kibeom-kim/Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
@@ -65,4 +66,12 @@ https://leetcode.com/_KIBEOM/
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kibeom-kim/Problem-Solving/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kibeom-kim/Problem-Solving/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kibeom-kim/Problem-Solving/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
